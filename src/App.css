@@ -1,0 +1,27 @@
+h1 {
+  left: 25vw;
+  position: relative;
+  font-size: 23px;
+  color: #000;
+}
+
+input {
+  width: 40vw;
+  height: 40px;
+  border: 1px solid transparent;
+  left: 25vw;
+  position: relative;
+  padding: 10px;
+  background-color: #E8DCCA;
+  color: #000;
+}
+
+button {
+  left: 25.1vw;
+  position: relative;
+  padding: 21px;
+  border: 1px solid transparent;
+  border-radius: 0px;
+  background-color: #D4F3B7;
+  color: #000;
+}
